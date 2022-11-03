@@ -1,0 +1,4 @@
+name: GlenAddons
+version: '${project.version}'
+main: pl.gduraj.glenaddons.GlenAddons
+api-version: 1.19
